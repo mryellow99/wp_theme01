@@ -7,3 +7,7 @@
 <link rel="stylesheet" href="">
 </head>
 <body>
+
+<header>
+   <h2>wp_theme01</h2>
+</header>
