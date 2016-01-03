@@ -32,6 +32,13 @@ header {
 .menu li a{
     display: block;
     padding: 14px 30px;
+    text-decoration: none;
+    color: white;
+    font-size: 1em;
+}
+
+.menu li a:hover{
+    color: mediumturquoise;
 }
 
 /* サイドバー */
