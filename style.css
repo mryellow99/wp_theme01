@@ -9,3 +9,41 @@ License:
 License URI: 
 Tags: 
 */
+
+/* ヘッダー  */
+header {
+    background-color: mediumaquamarine;
+}
+
+/* グローバルメニュー */
+.menu {
+    background-color: mediumturquoise;
+    padding: 0;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu li:hover{
+    background-color: #fff;
+}
+
+.menu li a{
+    display: block;
+    padding: 14px 30px;
+}
+
+/* サイドバー */
+#right{
+    width: 25%;
+    height: 100%;
+    float: right; 
+    background-color: palegreen;
+}
+
+/* メインコンテンツ */
+#main{
+    width: 73%;
+    float: left;
+}
